@@ -3,9 +3,9 @@
     <Header />
     <!-- <router-view /> -->
     <AboutMe />
-    <Gallery />
+    <Skills />
     <Services />
-    <ContactForm />
+    <Portifolio />
     <Footer />
   </div>
 </template>
@@ -13,18 +13,18 @@
 <script>
 import Header from "@/components/Header.vue";
 import AboutMe from "@/views/AboutMe.vue";
-import Gallery from "@/views/Gallery.vue";
+import Portifolio from "@/views/Portifolio.vue";
 import Services from "@/views/Services.vue";
-import ContactForm from "@/views/ContactForm.vue";
+import Skills from "@/views/Skills.vue";
 import Footer from "@/components/Footer.vue";
 
 export default {
   components: {
     Header,
     AboutMe,
-    Gallery,
+    Skills,
     Services,
-    ContactForm,
+    Portifolio,
     Footer
   }
 };

@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <div class="services">
+    <div id="services" class="services">
       <h2>Services Offered</h2>
       <ul>
         <li v-for="service in services" :key="service.id" class="service-item">
@@ -15,10 +15,12 @@
     data() {
       return {
         services: [
-          { id: 1, name: "Wedding Photography" },
-          { id: 2, name: "Portrait Photography" },
-          { id: 3, name: "Event Coverage" },
-          { id: 4, name: "Corporate Shoots" },
+          { id: 1, name: "User Interface & Experience Design" },
+          { id: 2, name: "Usability Audits" },
+          { id: 3, name: "Graphic Design" },
+          { id: 4, name: "Brand Identity Design" },
+          { id: 5, name: "Design Consulting" },
+          { id: 6, name: "Prototyping and Mockup" },
         ]
       };
     }

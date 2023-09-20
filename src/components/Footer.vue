@@ -3,11 +3,13 @@
     <footer id="footer" class="footer" >
       <div class="content">
         <!-- Add content for Footer section -->
-        <p>&copy; 2023 Personal Portifolio. All Rights Reserved.</p>
+        <p>&copy; 2023 Jaffer Kimutai. All Rights Reserved.</p>
+        <h3>Follow Me</h3>
         <div class="social-links">
-          <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-          <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
-          <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
+          <a href="https://twitter.com/yunghavy" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a href="https://instagram.com/yunghavy" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a href="https://github.com/yunghavy" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://dribbble.com/yunghavy" target="_blank"><i class="fab fa-dribble"></i></a>
         </div>
       </div>
     </footer>
