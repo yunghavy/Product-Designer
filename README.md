@@ -1,4 +1,4 @@
-# personal_portifolio
+# jkvisuals
 
 ## Project setup
 ```
